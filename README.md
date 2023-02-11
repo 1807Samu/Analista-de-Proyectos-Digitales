@@ -1,5 +1,6 @@
 # IRDRUTA
-Se detalla a continuación de forma resumida el Proyecto de Sistema de Transporte Interprovincial IRDRUTA (creación de rutas por empresa)
+Se detalla a continuación de forma resumida el Proyecto de Sistema de Transporte Interprovincial IRDRUTA (creación de rutas por empresa).
+
 Este proyecto tiene como objetivo brindar un servicio de transporte eficiente y conveniente para las personas que necesitan viajar entre las diferentes provincias de la ciudad de Cajamarca. 
 Para lograr esto, se desarrolló una aplicación web que permitirá a los usuarios programar sus viajes de manera rápida y sencilla.
 La aplicación es fácil de usar y está disponible para todos los dispositivos móviles y de escritorio. Los usuarios podrán elegir el medio de transporte que más se adapte a sus necesidades, ya sea en vehículos privados o en servicios públicos de transporte.
